@@ -19,16 +19,17 @@
 <!--- About me-->
 ## 🚀 About Me  
 
-👋 Hi, I'm **Neeraj Hariyale**, an enthusiastic **Information Technology** student at **Oriental College of Technology, Bhopal**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
+👋 Hello, I’m Alex, an Electronics Engineering student with a strong interest in software development and cybersecurity. I combine my expertise in electronics and programming to design and develop innovative technological solutions aimed at solving real-world challenges and optimizing processes.
 
-### 💡 What I Do  
-- 💻 **Proficient in:** C, C++, Java, DSA, HTML, CSS, JavaScript, React  
-- 🔍 **Passionate about:** Web Development, API Integration  
+## 💡 What I Do
+-💻 Proficient in: C, C++, Python, Arduino, MicroPython, HTML, CSS, JavaScript, React, Astro, Node.js, Tailwind CSS, ESP32
 
-### 🚀 Looking For  
-- 💼 Exciting **development opportunities & tech collaborations**  
-- 📖 Learning **new technologies** and staying updated with industry trends  
+-🔍 Passionate about: Software development, cybersecurity, programming applied to electronics, and IoT projects with ESP32
 
+## 🚀 Looking For
+-💼 Opportunities in technology project development and collaborations in electronics and software
+
+-📖 Learning new technologies and staying updated with industry trends
 <br><br>
 
 
