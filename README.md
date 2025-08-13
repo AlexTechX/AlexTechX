@@ -59,7 +59,7 @@
 <!--Backend Tecnologies-->
 <div align="center">
   <h2 align="center">Backend Technologies🚀</h2>
-  <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="70" height="75">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="75">
 </div>
 <br>
 
@@ -69,6 +69,7 @@
   <h2 align="center">Database🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" witdth="65">
 </div>
 <br>
 
