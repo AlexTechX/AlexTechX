@@ -69,7 +69,7 @@
   <h2 align="center">Database🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite" witdth="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain-wordmark.svg" alt="Sqlite" width="65">
 </div>
 <br>
 
