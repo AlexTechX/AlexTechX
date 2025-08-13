@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Pytrhon" width="65">
 </div>
 <br>
 
